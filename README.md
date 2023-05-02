@@ -18,3 +18,4 @@ We already know the following things
 * Branch
 * Sending to a remote repository (Push)
 * Update local repository (Pull/Fetch)
+*Merge
